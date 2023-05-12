@@ -1,0 +1,1 @@
+python3 cnc.py 52662

@@ -1,0 +1,170 @@
+('D:\\NebulaC2\\src\\Payload\\build\\Google Chrome\\Google Chrome.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0,
+  'SPLASH': 1},
+ [('PYZ-00.pyz',
+   'D:\\NebulaC2\\src\\Payload\\build\\Google Chrome\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'D:\\NebulaC2\\src\\Payload\\build\\Google Chrome\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'D:\\NebulaC2\\src\\Payload\\build\\Google '
+   'Chrome\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'D:\\NebulaC2\\src\\Payload\\build\\Google '
+   'Chrome\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'D:\\NebulaC2\\src\\Payload\\build\\Google '
+   'Chrome\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Duy '
+   'Khương\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_subprocess',
+   'C:\\Users\\Duy '
+   'Khương\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_subprocess.py',
+   'PYSOURCE'),
+  ('bot', 'D:\\NebulaC2\\src\\Payload\\bot.py', 'PYSOURCE'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Duy '
+   'Khương\\AppData\\Local\\Programs\\Python\\Python39\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('python39.dll',
+   'C:\\Users\\Duy '
+   'Khương\\AppData\\Local\\Programs\\Python\\Python39\\python39.dll',
+   'BINARY'),
+  ('select',
+   'C:\\Users\\Duy '
+   'Khương\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'C:\\Users\\Duy '
+   'Khương\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'C:\\Users\\Duy '
+   'Khương\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'C:\\Users\\Duy '
+   'Khương\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'C:\\Users\\Duy '
+   'Khương\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'C:\\Users\\Duy '
+   'Khương\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('brotli._brotli',
+   'C:\\Users\\Duy '
+   'Khương\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\brotli\\_brotli.pyd',
+   'EXTENSION'),
+  ('_queue',
+   'C:\\Users\\Duy '
+   'Khương\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_cffi_backend',
+   'C:\\Users\\Duy '
+   'Khương\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\_cffi_backend.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('cryptography.hazmat.bindings._openssl',
+   'C:\\Users\\Duy '
+   'Khương\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\bindings\\_openssl.pyd',
+   'EXTENSION'),
+  ('cryptography.hazmat.bindings._rust',
+   'C:\\Users\\Duy '
+   'Khương\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\bindings\\_rust.pyd',
+   'EXTENSION'),
+  ('_uuid',
+   'C:\\Users\\Duy '
+   'Khương\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('_decimal',
+   'C:\\Users\\Duy '
+   'Khương\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'C:\\Users\\Duy '
+   'Khương\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\Duy '
+   'Khương\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\Duy '
+   'Khương\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('python3.dll',
+   'C:\\Users\\Duy '
+   'Khương\\AppData\\Local\\Programs\\Python\\Python39\\python3.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'D:\\NebulaC2\\src\\Payload\\build\\Google Chrome\\base_library.zip',
+   'DATA'),
+  ('cryptography-39.0.1.dist-info\\LICENSE.PSF',
+   'c:\\users\\duy '
+   'khương\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography-39.0.1.dist-info\\LICENSE.PSF',
+   'DATA'),
+  ('cryptography-39.0.1.dist-info\\WHEEL',
+   'c:\\users\\duy '
+   'khương\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography-39.0.1.dist-info\\WHEEL',
+   'DATA'),
+  ('cryptography-39.0.1.dist-info\\top_level.txt',
+   'c:\\users\\duy '
+   'khương\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography-39.0.1.dist-info\\top_level.txt',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'C:\\Users\\Duy '
+   'Khương\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('cryptography-39.0.1.dist-info\\LICENSE',
+   'c:\\users\\duy '
+   'khương\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography-39.0.1.dist-info\\LICENSE',
+   'DATA'),
+  ('cryptography-39.0.1.dist-info\\INSTALLER',
+   'c:\\users\\duy '
+   'khương\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography-39.0.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('cryptography-39.0.1.dist-info\\METADATA',
+   'c:\\users\\duy '
+   'khương\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography-39.0.1.dist-info\\METADATA',
+   'DATA'),
+  ('certifi\\py.typed',
+   'C:\\Users\\Duy '
+   'Khương\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\certifi\\py.typed',
+   'DATA'),
+  ('cryptography-39.0.1.dist-info\\LICENSE.APACHE',
+   'c:\\users\\duy '
+   'khương\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography-39.0.1.dist-info\\LICENSE.APACHE',
+   'DATA'),
+  ('cryptography-39.0.1.dist-info\\RECORD',
+   'c:\\users\\duy '
+   'khương\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography-39.0.1.dist-info\\RECORD',
+   'DATA'),
+  ('cryptography-39.0.1.dist-info\\LICENSE.BSD',
+   'c:\\users\\duy '
+   'khương\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography-39.0.1.dist-info\\LICENSE.BSD',
+   'DATA'),
+  ('cloudscraper\\user_agent\\browsers.json',
+   'C:\\Users\\Duy '
+   'Khương\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cloudscraper\\user_agent\\browsers.json',
+   'DATA')],
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
